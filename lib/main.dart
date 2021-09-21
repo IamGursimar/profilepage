@@ -73,7 +73,7 @@ class ContactProfilePage extends StatelessWidget {
                 otherPhoneListTile(),
                 emailListTile(),
                 Divider(
-                  color: Colors.grey,
+                  color: Colors.black,
                 ),
                 addressListTile()
               ],
